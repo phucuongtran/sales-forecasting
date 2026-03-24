@@ -231,6 +231,7 @@ Good extensions for future versions:
 - CI checks for training scripts
 - API serving for prediction
 
-## Contact
+## License
 
-Replace this section with your own GitHub, LinkedIn, or email before publishing publicly.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+

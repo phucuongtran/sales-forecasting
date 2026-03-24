@@ -41,6 +41,11 @@ Desktop.ini
 models/
 check_data/
 
-# Optional: ignore generated intermediate data if you recreate it locally
-# data/*.feather
-# data/*.xlsx
+#data
+data/
+data/*.csv
+data/*.parquet
+data/*.feather
+data/*.xlsx
+data/*.xls
+
